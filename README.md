@@ -3,17 +3,13 @@
   
 # 👾 Welcome to My Digital Universe 👾
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&random=false&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Innovation+Explorer;Code+Artist)](https://git.io/typing-svg)
-
 </div>
 
-<!-- Futuristic Banner -->
-
-```ascii
-╔═══*.·:·.☽✧      DIGITAL CRAFTSMAN      ✧☾.·:·.*═══╗
-     🚧 Under construction: Building awesome features
-╚═══*.·:·.☽✧       FUTURE BUILDER        ✧☾.·:·.*═══╝
-```
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&random=false&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Innovation+Explorer;Code+Artist" alt="Typing SVG">
+  </a>
+</div>
 
 <!-- Tech Stack Animation -->
 <div align="center">
@@ -35,9 +31,10 @@
   
 ### 📊 Matrix Analytics 📊
 
+<!--
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miltonrey&show_icons=true&theme=radical&hide_border=true)](https://github.com/miltonrey)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true)](https://github.com/miltonrey)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true)](https://github.com/miltonrey)-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miltonrey&theme=radical&hide_border=true)](https://github.com/YourUsername)
 
@@ -52,6 +49,7 @@
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=miltonrey&repo=project2&theme=radical&hide_border=true)](https://github.com/miltonrey/project2)
 
 </div>
+
 
 <!-- Connect Section -->
 <div align="center">
