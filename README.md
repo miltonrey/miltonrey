@@ -36,7 +36,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true)](https://github.com/miltonrey)-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miltonrey&theme=radical&hide_border=true)](https://github.com/YourUsername)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miltonrey&theme=radical&hide_border=true)](https://github.com/miltonrey)
 
 </div>
 
@@ -56,8 +56,8 @@
   
 ### 🌐 Neural Network 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YourUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/miltonrey)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/miltonrey)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4088?style=for-the-badge&logo=google-chrome)](https://your-portfolio.com)
 
 </div>
