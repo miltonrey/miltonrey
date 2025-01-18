@@ -34,9 +34,11 @@
 <!--
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miltonrey&show_icons=true&theme=radical&hide_border=true)](https://github.com/miltonrey)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true)](https://github.com/miltonrey)-->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true)](https://github.com/miltonrey)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miltonrey&theme=radical&hide_border=true)](https://github.com/miltonrey)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miltonrey&theme=radical&hide_border=true)](https://github.com/miltonrey)-->
+
+[![GitHub Streak](https://github-readme-streak-stats-mu-livid.vercel.app?user=miltonrey&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
